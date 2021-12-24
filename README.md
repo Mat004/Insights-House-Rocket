@@ -74,17 +74,17 @@ Com essas informações podemos observar que o imóvel com o menor preço custa 
 - Em boas condições (good)
 
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/76838937/147372678-2a70f8e6-20fa-4569-b120-4b9bea9aa20b.png">
+<img src="https://user-images.githubusercontent.com/76838937/147372816-0092089b-871f-4e52-80dc-2612f3d70883.png">
 </p>
 
 - Em condições regulares (regular)
 
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/76838937/147372706-548bb069-c325-4f1f-821d-9319e653f134.png">
+<img src="https://user-images.githubusercontent.com/76838937/147372819-16315474-51d8-468f-aac1-5fabbdab6515.png">
 </p>
 
 - Em condições ruins (bad)
 
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/76838937/147372734-dc5a2ff7-2e0d-4315-adef-4324c86afef4.png">
+<img src="https://user-images.githubusercontent.com/76838937/147372824-60c710cd-f460-480c-a011-728b62c9fd94.png">
 </p>
