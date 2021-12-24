@@ -54,3 +54,37 @@ Com essas informações podemos observar que o imóvel com o menor preço custa 
     - **Verdadeiro**: Imóveis antigos já reformados, são 50% mais caros que os imóveis sem reforma
 - **H10: A maioria dos imóveis do tipo "apartament" possuem estado de conservação "good"**
     - **Falso**: A grande parte dos imóveis do tipo "apartament" possuem estado de conservação "regular"
+ 
+ 
+ # Resultados
+ 
+- Quais são os imóveis que a House Rocket deve comprar?
+    - Imóveis com preço abaixo da mediana da região 
+    - Imóveis em condições "regular" e "good"
+    - A quantidade total de imóveis é de 21.613 e quantidade classificada para compra é de 10.579
+- Uma vez o imóvel comprado, qual o melhor preço para vendê-los?
+    - Se o preço de compra do imóvel for maior que a mediana da região, o preço da venda será o preço da compra com acréscimo de 10%
+    - Se o preço de compra do imóvel for menor que a mediana da região, o preço da venda será o preço da compra com acréscimo de 30%
+- Investimento
+    - Caso haja a compra dos imóveis classificados para venda, o valor investido será de $4,1 bilhões de dólares
+    - Com a venda de todos os imóveis, a receita estimada é de $5,3 bilhões de dólares
+    - O lucro final será de $1,2 bilhões de dólares
+
+**_Mapa com os imóveis_**
+- Em boas condições (good)
+
+<p align="center"> 
+<img src="https://user-images.githubusercontent.com/76838937/147372678-2a70f8e6-20fa-4569-b120-4b9bea9aa20b.png">
+</p>
+
+- Em condições regulares (regular)
+
+<p align="center"> 
+<img src="https://user-images.githubusercontent.com/76838937/147372706-548bb069-c325-4f1f-821d-9319e653f134.png">
+</p>
+
+- Em condições ruins (bad)
+
+<p align="center"> 
+<img src="https://user-images.githubusercontent.com/76838937/147372734-dc5a2ff7-2e0d-4315-adef-4324c86afef4.png">
+</p>
