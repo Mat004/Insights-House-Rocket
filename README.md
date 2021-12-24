@@ -29,4 +29,4 @@ Com os dados extraídos e feito o tratamento de dados, com uma descrição bási
 <img src="https://user-images.githubusercontent.com/76838937/147371555-556668ac-3154-4d4c-9d4a-4421ea35624d.png">
 </p>
 
-Com essas informações podemos observar que a quantidade total de imóveis no dataset é de 216113 e o imóvel com o menor preço custa $75 mil dólares enquanto o mais caro custa $7,7 milhões de dólares. 
+Com essas informações podemos observar que a quantidade total de imóveis é de 21.613. O imóvel com o menor preço custa $75 mil dólares enquanto o mais caro custa $7,7 milhões de dólares, a média dos preços é de $540 mil dólares. É possível observar o ano de construição dos imóveis, o mais antigo é datado de 1900 e o mais recente de 2015.
