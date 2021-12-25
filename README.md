@@ -41,9 +41,9 @@ Com essas informações podemos observar que o imóvel com o menor preço custa 
 - **H3: Imóveis sem porão são 50% maiores que com porão**
     - **Falso**: Imóveis sem porão são, aproximadamente, 23% mais baratos
 - **H4: O crescimento do preço dos imóveis YoY é de 10%**
-    - **Falso**: O crescimento "Year of Year" é de 0,5%
+    - **Falso**: O crescimento "Year over Year" é de 0,5%
 - **H5: Imóveis com 3 banheiros tem um crescimento MoM de 15%**
-    - **Falso**: A variação "Month of Month" varia bastante entre os meses, mas não chega a 15%
+    - **Falso**: A variação "Month over Month" varia bastante entre os meses, mas não chega a 15%
 - **H6: A maioria dos imóveis com vista para a água possuem estado de conservação "good"**
     - **Falso**: A grande maioria possui estado de conservação "regular"
 - **H7: Imóveis mais novos possuem preço médio maior**
