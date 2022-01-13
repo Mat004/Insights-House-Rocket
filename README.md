@@ -6,6 +6,8 @@
 
 **Observação**: Os dados foram extraídos do site https://www.kaggle.com/harlfoxem/housesalesprediction, a House Rocket é uma empresa real e os dados presentes no dataset não representam vínculo com a empresa, toda a situação discutida aqui é para fins de estudo (desde o CEO até as perguntas de negócio).
 
+**Acesso ao Projeto**: Caso deseje acessar o projeto completo basta clicar aqui --> [Insights - House Rocket](https://github.com/Mat004/Insights-House-Rocket/blob/main/Insights%20-%20House%20Rocket.ipynb)
+
 
 # Sobre a House Rocket
 
