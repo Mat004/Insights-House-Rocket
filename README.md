@@ -93,6 +93,23 @@ Com essas informações podemos observar que o imóvel com o menor preço custa 
 
 
 
-# Vídeo do Dashboard
+# Dashboard 
 
+**_Resumo_**
+![WhatsApp Image 2022-01-15 at 1 14 28 PM](https://user-images.githubusercontent.com/76838937/149629192-155c505d-c59a-46f5-9fc6-3ebda523e259.jpeg)
+
+
+**_Descriminado_**
+![WhatsApp Image 2022-01-15 at 1 14 55 PM](https://user-images.githubusercontent.com/76838937/149629258-d3a6eab2-8d5c-41bf-8ff6-e1ab6a716b2f.jpeg)
+
+
+**_Mapa_**
+![WhatsApp Image 2022-01-15 at 1 15 59 PM](https://user-images.githubusercontent.com/76838937/149629285-a3216e12-7fa3-4f7d-889a-5c631497d1d7.jpeg)
+
+
+**_Tabela_**
+![WhatsApp Image 2022-01-15 at 1 16 35 PM](https://user-images.githubusercontent.com/76838937/149629316-66a1e3be-7964-460b-ac88-942bed36dce3.jpeg)
+
+
+## Vídeo
 https://user-images.githubusercontent.com/76838937/149628932-51d88abd-6d49-4c89-9a09-aecfe6c618cd.mp4
