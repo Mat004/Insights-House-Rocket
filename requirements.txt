@@ -1,0 +1,8 @@
+matplotlib @ file:///tmp/build/80754af9/matplotlib-suite_1634667019719/work
+matplotlib-inline @ file:///tmp/build/80754af9/matplotlib-inline_1628242447089/work
+numpy @ file:///tmp/build/80754af9/numpy_and_numpy_base_1626264704411/work
+numpydoc @ file:///tmp/build/80754af9/numpydoc_1605117425582/work
+pandas==1.3.4
+plotly==5.4.0
+seaborn @ file:///tmp/build/80754af9/seaborn_1629307859561/work
+tabulate==0.8.9
