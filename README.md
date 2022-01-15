@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/76838937/147371237-fffd5dc5-3366-4522-bbbc-093f0b83b576.jpg">
 </p>
 
-**Observação**: Os dados foram extraídos do site https://www.kaggle.com/harlfoxem/housesalesprediction, a House Rocket é uma empresa real e os dados presentes no dataset não representam vínculo com a empresa, toda a situação discutida aqui é para fins de estudo (desde o CEO até as perguntas de negócio).
+**Observação**: Os dados foram extraídos do site https://www.kaggle.com/harlfoxem/housesalesprediction, a House Rocket é uma empresa real e os dados presentes no dataset não representam vínculo com a empresa, toda a situação discutida aqui é para fins de estudo (desde o CEO até as perguntas de negócio). Ao final do projeto os dados foram apresentados em um Dashboard feito no Qlik Sense.
 
 **Acesso ao Projeto**: Caso deseje acessar o projeto completo basta clicar aqui --> [Insights - House Rocket](https://github.com/Mat004/Insights-House-Rocket/blob/main/Insights%20-%20House%20Rocket.ipynb)
 
@@ -90,3 +90,9 @@ Com essas informações podemos observar que o imóvel com o menor preço custa 
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/76838937/147372824-60c710cd-f460-480c-a011-728b62c9fd94.png">
 </p>
+
+
+
+# Vídeo do Dashboard
+
+https://user-images.githubusercontent.com/76838937/149628932-51d88abd-6d49-4c89-9a09-aecfe6c618cd.mp4
