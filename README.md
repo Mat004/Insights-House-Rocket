@@ -8,6 +8,8 @@
 
 **Acesso ao Projeto**: Caso deseje acessar o projeto completo basta clicar aqui --> [Insights - House Rocket](https://github.com/Mat004/Insights-House-Rocket/blob/main/Insights%20-%20House%20Rocket.ipynb)
 
+**Acesso ao Dashboard no Heroku**: [Heroku App](https://app-house-rocket-insight.herokuapp.com/)
+
 
 # Sobre a House Rocket
 
